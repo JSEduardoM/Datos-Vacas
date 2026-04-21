@@ -1,4 +1,4 @@
-vaca,lote,lactacion,fecha_parto,dias_lactacion,estatus,dia_gestacion,nro_inseminaciones,dias_abierta,prod_promedio
+Col_0,Col_1,Col_2,Col_3,Col_4,Col_5,Col_6,Col_7,Col_8,Col_9
 2656,32,5,22-08-24,363,Prepa,434,3,144,0.0
 2748,12,5,30-01-25,417,Preñ,297,2,120,33.3
 2827,32,4,26-10-24,312,Seca,420,1,93,0.0
@@ -97,3 +97,4 @@ vaca,lote,lactacion,fecha_parto,dias_lactacion,estatus,dia_gestacion,nro_insemin
 3366,10,1,19-04-25,338,Preñ,223,2,115,36.3
 3369,19,1,2-05-25,325,Preñ,231,1,94,38.0
 3371,11,1,10-05-25,317,Preñ,241,1,76,35.9
+57%,2,408,298,2,147,26.4,,,

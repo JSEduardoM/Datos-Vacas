@@ -1,4 +1,4 @@
-vaca,grupo,status,dias_lactacion,dias_al_secado,dias_al_parto,prod_actual,fecha_secado_recom,fecha_estimada_parto
+VACA,GP,STATUS,---------DIAS---------,PRODUCCION,Fecha,Fecha,CELULAS,SOMATICAS
 3297,18,Preñ2,473,-168,-99,21.6,6-10-25,14-12-25
 2995,4,Preñ2,549,-154,-85,26.0,20-10-25,28-12-25
 2991,18,Preñ2,528,-154,-85,30.0,20-10-25,28-12-25
